@@ -221,3 +221,5 @@ __marimo__/
 
 .tunnel.log
 .tunnel.pid
+
+gpu_finops_lab_solution.ipynb
